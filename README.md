@@ -19,7 +19,7 @@ The project starts with an exploration of the student dataset, using different v
 sns.countplot(data=student, x='Gender')
 plt.xlabel('Gender')
 plt.ylabel('Number of Students')
-plt.show()'''
+plt.show()
 
 The gender distribution is visualized to understand the balance between male and female students.
 Nationality Distribution
